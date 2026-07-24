@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
 </a> -->
-<a href="https://isupersky.medium.com/">
+<a href="https://github.com/alexrobindev">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
 
