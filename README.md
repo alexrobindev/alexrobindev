@@ -2,11 +2,11 @@
 
 # Alex Robin
 
-**Full Stack Developer • Flutter Developer • AI Applications**
+**Software Developer | Trader | Cybersecurity Enthusiast**
 
-Building practical software with Flutter, Python, and modern AI technologies.
+Building practical software with Flutter, Python, AI, and automation.
 
-[Portfolio](YOUR_PORTFOLIO) • [LinkedIn](YOUR_LINKEDIN) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -14,9 +14,26 @@ Building practical software with Flutter, Python, and modern AI technologies.
 
 ## About
 
-I'm a software developer with an interest in building practical applications using Flutter, Python, and AI technologies.
+I'm a software developer with an interest in AI, cybersecurity, financial markets, and building practical software.
 
-I enjoy learning new tools, contributing to open-source projects, and creating software that solves real-world problems.
+Outside development, I actively study trading, hold the Certified Ethical Hacker (CEH) certification, and work with Google Ads analytics to understand campaign performance and digital marketing data.
+
+I enjoy learning new technologies, solving real-world problems, and continuously improving my skills.
+
+---
+
+## Areas of Interest
+
+- Software Development
+- Flutter
+- Artificial Intelligence
+- Python
+- Cybersecurity
+- Certified Ethical Hacker (CEH)
+- Algorithmic Trading
+- Financial Markets
+- Google Ads Analytics
+- Linux
 
 ---
 
@@ -28,16 +45,16 @@ I enjoy learning new tools, contributing to open-source projects, and creating s
 <img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,cpp,java,bash" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,supabase" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
 ### Tools
@@ -56,43 +73,9 @@ I enjoy learning new tools, contributing to open-source projects, and creating s
 
 ---
 
-## GitHub Statistics
+## Certifications
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alexrobindev&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=alexrobindev&theme=default&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexrobindev&theme=github-light&hide_border=true"/>
-</p>
-
----
-
-## Current Focus
-
-- Flutter application development
-- AI-powered software
-- Backend APIs
-- Local LLMs
-- Linux development
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Project 1** | Short description |
-| **Project 2** | Short description |
-| **Project 3** | Short description |
+- Certified Ethical Hacker (CEH)
 
 ---
 
