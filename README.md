@@ -2,16 +2,11 @@
 
 # Alex Robin
 
-Full Stack Developer | Flutter Developer | AI Applications
+**Full Stack Developer • Flutter Developer • AI Applications**
 
-Building software with Flutter, Python, and modern AI technologies.
+Building practical software with Flutter, Python, and modern AI technologies.
 
-<p>
-<a href="https://github.com/alexrobindev">GitHub</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+[Portfolio](YOUR_PORTFOLIO) • [LinkedIn](YOUR_LINKEDIN) • [Email](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -19,44 +14,92 @@ Building software with Flutter, Python, and modern AI technologies.
 
 ## About
 
-I'm a developer interested in building practical software that combines clean user experiences with modern AI capabilities.
+I'm a software developer with an interest in building practical applications using Flutter, Python, and AI technologies.
 
-My primary interests include:
-
-- Flutter application development
-- AI and LLM-powered applications
-- Backend development
-- Linux and developer tooling
-- Open-source software
+I enjoy learning new tools, contributing to open-source projects, and creating software that solves real-world problems.
 
 ---
 
-**Languages**
+## Tech Stack
 
-- Dart
-- Python
-- JavaScript
-- TypeScript
-- C++
-- Java
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,cpp,java,bash" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio" />
+</p>
+
+---
+
+## Programming Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrobindev&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alexrobindev&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=alexrobindev&theme=default&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexrobindev&theme=github-light&hide_border=true"/>
+</p>
 
 ---
 
 ## Current Focus
 
-Currently working on projects involving:
-
-- AI-assisted applications
-- Local LLM integration
-- Flutter development
+- Flutter application development
+- AI-powered software
 - Backend APIs
-- Automation tools
+- Local LLMs
+- Linux development
 
+---
 
+## Featured Projects
 
-## Contact
+| Project | Description |
+|---------|-------------|
+| **Project 1** | Short description |
+| **Project 2** | Short description |
+| **Project 3** | Short description |
 
-If you'd like to collaborate or discuss a project, feel free to reach out.
+---
 
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN
+## Connect
+
+<p>
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+</p>
