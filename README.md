@@ -63,11 +63,10 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio" />
 </p>
 
----
 
 ## Programming Languages
 
-<p align="center">
+<p align="left">
 <img src="https://camo.githubusercontent.com/91de5b403fa0ecbb6e4518295ecadac157a33fa4844545f7dd4845c1ca63a4ce/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d697375706572736b79266c61796f75743d636f6d70616374266c616e67735f636f756e743d3826686964655f626f726465723d74727565"/>
 </p>
 
