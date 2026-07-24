@@ -1,87 +1,43 @@
-<div align="center">
+## Hello World, I'm [Alex Robin!](https://isupersky.github.io/portfolio/#/) 
+<!--
+**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Alex Robin
+Here are some ideas to get you started:
 
-**Software Developer | Trader | Cybersecurity Enthusiast**
-
-Building practical software with Flutter, Python, AI, and automation.
-
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-## About
-
-I'm a software developer with an interest in AI, cybersecurity, financial markets, and building practical software.
-
-Outside development, I actively study trading, hold the Certified Ethical Hacker (CEH) certification, and work with Google Ads analytics to understand campaign performance and digital marketing data.
-
-I enjoy learning new technologies, solving real-world problems, and continuously improving my skills.
-
----
-
-## Areas of Interest
-
-- Software Development
-- Flutter
-- Artificial Intelligence
-- Python
-- Cybersecurity
-- Certified Ethical Hacker (CEH)
-- Algorithmic Trading
-- Financial Markets
-- Google Ads Analytics
-- Linux
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,cpp,java,bash" />
-</p>
-
-### Frameworks & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,supabase" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio" />
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
-## Programming Languages
+<a href="https://www.linkedin.com/in/alexrobincs">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
+<!-- <a href="https://twitter.com/isupersky">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/X" />
+</a> -->
+<a href="mailto:al3xrobin@proton.me">
+  <img align="left" width="26px" src="https://skillicons.dev/icons?i=gmail" height="32" />
+</a>
+<!-- <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
+</a> -->
+<a href="https://isupersky.medium.com/">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
+</a>
 
-<p align="left">
-<img src="https://camo.githubusercontent.com/91de5b403fa0ecbb6e4518295ecadac157a33fa4844545f7dd4845c1ca63a4ce/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d697375706572736b79266c61796f75743d636f6d70616374266c616e67735f636f756e743d3826686964655f626f726465723d74727565"/>
-</p>
+<br />
 
----
+### About Me 🚀
+🌱  I'm a software developer passionate about Flutter, AI, and building practical applications. </br>
+👨‍💻  I also enjoy cybersecurity, financial markets, and learning new technologies. </br>
 
-## Certifications
 
-- Certified Ethical Hacker (CEH)
-
----
-
-## Connect
-
-<p>
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+<br />
