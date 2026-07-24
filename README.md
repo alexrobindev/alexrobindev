@@ -29,11 +29,7 @@ My primary interests include:
 - Linux and developer tooling
 - Open-source software
 
-I enjoy learning new technologies and building projects that solve real problems.
-
 ---
-
-## Technologies
 
 **Languages**
 
@@ -43,28 +39,6 @@ I enjoy learning new technologies and building projects that solve real problems
 - TypeScript
 - C++
 - Java
-
-**Frameworks**
-
-- Flutter
-- Firebase
-- Node.js
-- Express
-
-**Databases**
-
-- PostgreSQL
-- MySQL
-- SQLite
-- Supabase
-
-**Tools**
-
-- Git
-- Docker
-- Linux
-- VS Code
-- Android Studio
 
 ---
 
@@ -78,33 +52,7 @@ Currently working on projects involving:
 - Backend APIs
 - Automation tools
 
----
 
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alexrobindev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrobindev&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=alexrobindev&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexrobindev&theme=github-dark&hide_border=true"/>
-</p>
-
----
 
 ## Contact
 
